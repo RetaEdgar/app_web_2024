@@ -1,0 +1,23 @@
+HTML (hyperText Markup Language) es el lenguaje estandar utilizado para crear y estructurar páginas web.
+No es un lenguaje de programación, sino un lenguaje de marcado, lo que significa que su principal función es
+organizar y definir el contenido de una página web mediante etiquetas.
+
+
+**HTML**
+1.- HTML ¿Que es y como funciona?
+2.- Etiquetas
+3.- estructura basica de una pagina
+4.-Textos
+5.-Listas
+6.-Imagenes
+8.-Tablas
+9.-Formularios
+10.-Enlaces o Hipervinculos (links)
+11.- Contenido embedido
+
+**CSS**
+12.-CSS
+ 
+
+**JS**
+13.-JavaScript
