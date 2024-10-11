@@ -127,3 +127,4 @@ for(let i=0; i<animales.length;i++)
 animales2.forEach(element => {
     datos.innerHTML+=`<hr><h1>El animal es: ${element}</h1>`;
 })
+// hola

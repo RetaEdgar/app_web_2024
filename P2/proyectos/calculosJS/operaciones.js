@@ -15,6 +15,8 @@ function operacion()
     }
 
     let resultado=document.getElementById("resultado");
-    resultado.innerHTML=`<h2> ${ope}</h2>`
+    resultado.innerHTML=`<h2> El resultado de la ${tipoope} de ${n1} + ${n2} el resultado es = ${ope}</h2>`
+// CALCULADORA
+    
 }
 
