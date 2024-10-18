@@ -1,0 +1,135 @@
+/* Estilos del main, section y footer 
+*{
+    margin: 0  ;
+    padding: 0;
+}
+
+section h2{
+    text-align: center;
+    font-size: 2rem;
+    font-style: italic;
+    text-decoration: underline;
+    background-color: burlywood;
+    padding: 3rem;
+}
+
+section p{
+    text-align: justify;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+section img{
+    display: block;
+    width: 32rem;
+    height: 25rem;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 90%;
+}
+section a img{
+    width: 2rem;
+    height: 2rem;
+    display: block;
+    margin-left: auto;
+    margin: 1rem 1rem;
+
+}
+
+footer{
+    background-color: silver;
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+}
+
+footer a{
+    padding: 1rem;
+    background-color: cadetblue;
+    text-decoration: none;
+    color: white;
+    width: auto;
+    height: 1rem;
+}
+footer a:hover{
+    background-color: rgba(0, 0, 0, 0.456);
+
+}
+
+footer a:active{
+    background-color: rgba(61, 139, 61, 0.214);
+}
+
+
+
+/* section */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+/* Estilos del main, section y footer */
+section h2{
+    text-align: center;
+    font-size: 2rem;
+    font-style: italic;
+    text-decoration: underline;
+    background-color: burlywood;
+    padding: 3rem;
+}
+
+section p{
+    text-align: justify;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+section img{
+    display: block;
+    width: 32rem;
+    height: 25rem;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 90%;
+    
+}
+
+section a img{
+    width: 2rem;
+    height: 2rem;
+    display: block;
+    margin: 1rem 1rem;
+    margin-left: auto;
+}
+
+footer{
+    background-color: silver;
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    border: 1px solid white;
+}
+
+footer a{
+    padding: 1rem;
+    background-color: cadetblue;
+    text-decoration: none;
+    color: white;
+    width: auto;
+    height: 1rem;
+    border: 1px solid white;
+    
+}
+
+footer a:hover{
+    background-color: rgb(46, 82, 82);
+}
+
+footer a:active{
+    background-color: rgb(25, 202, 202);
+    border: 1px solid white;
+}
+/* section */

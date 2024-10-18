@@ -19,9 +19,12 @@ function operacion()
         resultado = document.getElementById("resultado");
         resultado.innerHTML = `<h2> ${n1} ${tipoope} ${n2} = ${ope}</h2>`
     }
-    else
-        // resultado=document.getElementById("resultado").innerHTML=`<h2>Ingresa solo numeros</h2>`
+    else{
+
+    
+        resultado=document.getElementById("resultado").innerHTML=`<h1>Ingresa solo numeros</h1>`
         alert("Ingresa solo numeros")
+    }
 
     
 }
