@@ -5,7 +5,10 @@ body{
   }
   
   /* Aplicar los estilos del Header */
+ 
   
+
+
   #inicio{
     background-image: url(../img/fondo1.jpg);
     height: 100vmin;
@@ -218,3 +221,131 @@ body{
 .burbujas p{
     font-size: 1.5vw;
 }
+
+/*Mis Trabajos */
+/* .mistrabajos p{
+  display: block;
+  
+  text-align: left;
+  padding-left: 10rem;
+}
+
+.img-github{
+  width: 150px;
+  display: flex;
+  border-radius: 20%;
+  box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.142);
+  width: 40vw;
+} */
+
+.contenedor-mistrabajos{
+  display: flex;
+  justify-content: flex-start;
+}
+.contenedor-mistrabajos p{
+  font-size: 1.2rem;
+  padding-right: 1rem;
+  text-align: justify;
+}
+.img-github{
+  width: 150px;
+  display: flex;
+  border-radius: 20%;
+  box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.142);
+  width: 40vw;
+}
+
+#mistrabajos .links{
+ display: flex;
+ justify-content: center;
+ padding: 1.5rem;
+  
+}
+#mistrabajos button{
+  background-color: rgb(48, 142, 177);
+  padding: 0.7rem;
+  margin: 1rem;
+  border: none;
+  border-radius: 15px;
+}
+#mistrabajos button a{
+  text-decoration: none;
+  color: white;
+  font-size: 1rem;
+}
+
+#mistrabajos button:hover{
+  background-color: rgb(200, 66, 200);
+  transform: scale(1.05);
+}
+
+/*------------------------Proyectos------------------------
+*/
+.contenedor-proyectos{
+  display: flex;
+  
+}
+.img-proyectos{
+  width: 150px;
+  display: flex;
+  border-radius: 20%;
+  box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.142);
+  width: 40vw;
+}
+.contenedor-proyectos p{
+  font-size: 1.2rem;
+  padding-left: 1rem;
+  text-align: justify;
+}
+#proyectos .btn-proyectos{
+  display: flex;
+  justify-content: center;
+  padding: 1.5rem;
+}
+
+#proyectos button{
+  background-color: rgb(48, 142, 177);
+  padding: 0.7rem;
+  margin: 1rem;
+  border: none;
+  border-radius: 15px;
+}
+#proyectos button a{
+  text-decoration: none;
+  color: white;
+  font-size: 1rem;
+  padding: 1rem;
+}
+
+/*----------------blog---------------*/
+.contenedor-blog{
+  text-align: center;
+}
+.contenedor-blog p{
+  text-align: center;
+  font-size: 1rem;
+}
+.img-blog{
+  width: 150px;
+  display: inline;
+  justify-content: center; 
+  border-radius: 50%;
+  overflow: hidden;
+  top: -50px;
+}
+.opciones-contacto{
+  display: flex;
+  justify-content: center;
+  padding: 1rem;
+  padding-left: 1rem;
+  
+}
+.opciones-contacto p{
+  padding-inline: 5rem;
+}
+.opciones-contacto img{
+  width: 50px;
+  padding-inline: 5rem;
+}
+
+
