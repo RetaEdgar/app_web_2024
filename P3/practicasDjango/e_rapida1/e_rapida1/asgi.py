@@ -1,5 +1,5 @@
 """
-ASGI config for e_rapida1 project.
+ASGI config for proyectoUTD project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
